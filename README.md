@@ -1,5 +1,5 @@
 # python_calssification
-# PYTHON AI 深度學習
+
 ML:千資料筆為單位訓練模型
 DL:萬
 depends:問題的難度(欄位個數)
@@ -19,6 +19,23 @@ scikit-learn
 	ex:穿衣格分群
 
 --------
+### 決策樹
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###### tags: `PYTHON`  `classification` `regression` `cluster`
 
 
 
